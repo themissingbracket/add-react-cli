@@ -6,5 +6,8 @@
   "repository": "git@github.com:themissingbracket/add-react-cli.git",
   "author": "Kartikeya Dasgupta",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
 }
