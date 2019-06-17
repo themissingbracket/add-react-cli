@@ -1,0 +1,10 @@
+{
+  "name": "add-react-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to add/create react project",
+  "main": "index.js",
+  "repository": "git@github.com:themissingbracket/add-react-cli.git",
+  "author": "Kartikeya Dasgupta",
+  "license": "MIT",
+  "private": true
+}
